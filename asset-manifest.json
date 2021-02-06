@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/MyNotes-grommetUI/static/js/main.b65599e8.chunk.js",
+    "main.js.map": "/MyNotes-grommetUI/static/js/main.b65599e8.chunk.js.map",
+    "runtime-main.js": "/MyNotes-grommetUI/static/js/runtime-main.8d6170d6.js",
+    "runtime-main.js.map": "/MyNotes-grommetUI/static/js/runtime-main.8d6170d6.js.map",
+    "static/js/2.f5f088b5.chunk.js": "/MyNotes-grommetUI/static/js/2.f5f088b5.chunk.js",
+    "static/js/2.f5f088b5.chunk.js.map": "/MyNotes-grommetUI/static/js/2.f5f088b5.chunk.js.map",
+    "index.html": "/MyNotes-grommetUI/index.html",
+    "static/js/2.f5f088b5.chunk.js.LICENSE.txt": "/MyNotes-grommetUI/static/js/2.f5f088b5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8d6170d6.js",
+    "static/js/2.f5f088b5.chunk.js",
+    "static/js/main.b65599e8.chunk.js"
+  ]
+}
